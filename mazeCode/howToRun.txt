@@ -1,0 +1,8 @@
+-> in terminal type:
+python dfs.py maze3.txt
+
+You can use dfs.py or bfs.py to solve the maze
+An image of the solved maze will appear in a maze.png 
+There are 3 mazes maze1.txt, maze2.txt, maze3.txt
+You can use any one or add your maze as a txt file and test
+NB: maze has to have a starting and ending point.

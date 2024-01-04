@@ -1,0 +1,9 @@
+node: state, parent, action
+stackfrontier: adding, remove
+collecting maze from file
+1 goal and one start point
+find height and width, 
+find cordonate of walls
+keep tracks of walls
+█print,find neighbors, solve
+
